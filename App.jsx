@@ -65,6 +65,3 @@ return (
 }
 
 export default TodoApp;
-
-
-
